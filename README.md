@@ -1,17 +1,13 @@
-<<<<<<< HEAD
-# AngularSPAwithOffline
+<h2 style="color:brown">Building Experience Travel Web Application</h2>
 
-
-Site Speed test Link 
-
-https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fspawithoffline.azurewebsites.net%2F&tab=desktop
-
-http://tools.pingdom.com/fpt/#!/waR6E/http://spawithoffline.azurewebsites.net/
-
-
-.
-=======
-# ExperienceTravel
-
-http://www.experiencetravelindia.com/
->>>>>>> origin/master
+<h3 style="font-weight:normal;">Frameworks - Libraries</h3>
+<ol>
+<li>ASP.NET Web API</li>
+<li>Entity Framework</li>
+<li>Autofac</li>
+<li>Automapper</li>
+<li>FluentValidation</li>
+<li>AngularJS</li>
+<li>Bootstrap 3</li>
+<li>3rd part libraries</li>
+</ol>
