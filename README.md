@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularSPAwithOffline
 
 
@@ -9,3 +10,8 @@ http://tools.pingdom.com/fpt/#!/waR6E/http://spawithoffline.azurewebsites.net/
 
 
 .
+=======
+# ExperienceTravel
+
+http://www.experiencetravelindia.com/
+>>>>>>> origin/master
